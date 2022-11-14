@@ -262,6 +262,7 @@ body{
     justify-content: space-between;
     align-items: flex-start;
 }
+
 .cardheader{
     font-weight: 600;
     color: var(--blue);
